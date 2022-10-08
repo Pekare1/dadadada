@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #5f9df7;
+}
+.box {
+  width: 36px;
+  height: 500px;
+  background-color: #fff7e9;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  border: 1px solid pink;
+  border-radius: 50%;
+}
